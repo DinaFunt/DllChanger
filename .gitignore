@@ -1,0 +1,6 @@
+*.DotSettings.user
+
+/.idea
+/packages
+**/bin
+**/obj
